@@ -1,0 +1,45 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b96fdb49;
+}
+
+
+
+h1 {
+    font-size: 5em;
+    margin-bottom: 20px;
+text-decoration-color: rgba(17, 94, 97, 0.836);
+    text-align: center;
+   
+}
+
+p {
+    font-size: 3.1em;
+    margin-bottom: 30px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.price {
+    font-size: 1.2em;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.1em;
+    background-color: #7f2eb6ce;
+    color: #0d0518;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
